@@ -1,0 +1,27 @@
+{"teammembers": [
+	{
+		"name":"Agnes",
+		"title":"Vice President of Accounting",
+		"bio":"With over 14 years of public accounting..."
+	},
+	{
+		"name":"Damon",
+		"title":"Director of Development",
+		"bio":"Damon is the Director of Development for Vecta Corp..."
+	},
+	{
+		"name":"Herbert",
+		"title":"Director of Human Resources",
+		"bio":"Herbert joined Vecta Corp. in October 1999 as..."
+	},
+	{
+		"name":"Mike",
+		"title":"Vice President of Sales and Marketing",
+		"bio":"Mike serves as the Vice President of Sales and Marketing..."
+	},
+	{
+		"name":"Wilbur",
+		"title":"Founder and CEO",
+		"bio":"While Wilbur is the founder and CEO of Vecta Corp, he is primarily known..."
+	}
+]}
